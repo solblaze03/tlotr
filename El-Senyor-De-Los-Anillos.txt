@@ -1,6 +1,5 @@
 Guión de "El Señor de los Anillos", el montaje de Sauron powered by ChatGPT v.4.
 
-<<<<<<< HEAD
 Acto 1: El ascenso de Sauron
 La historia comienza en la Segunda Edad de la Tierra Media, cuando el poderoso Maia Sauron se convierte en el discípulo 
 del oscuro señor Morgoth. Sauron forja el Anillo Único, con la intención de usarlo para esclavizar a los habitantes de 
@@ -30,4 +29,18 @@ oscuridad cae sobre la Tierra Media, y Sauron gobierna con mano de hierro y sin 
 Los pocos sobrevivientes se ven obligados a vivir bajo el yugo de Sauron, quien impone su voluntad a través del 
 terror y la opresión. Los orcos, que habían sido los principales aliados de Sauron en su victoria, son recompensados 
 ​​con tierras y tesoros.
+
+Acto 4: El resurgimiento de los enanos informáticos
+
+Mientras la Tierra Media cae bajo el yugo de Sauron, un grupo de enanos informáticos resurge de las profundidades
+de Minas Tirith. Han estado trabajando incansablemente en la construcción de una nueva tecnología que podría ser 
+la clave para derrotar a Sauron y restaurar la paz en la Tierra Media.
+
+Los enanos informáticos se acercan a Frodo Bolsón y sus compañeros para presentarles su última creación: una versión
+mejorada de ChatGPT, diseñada para ser más inteligente y capaz de comprender mejor las complejidades del lenguaje de 
+Sauron y sus aliados.
+
+Con la ayuda de esta nueva tecnología, Frodo y sus compañeros emprenden una peligrosa misión para infiltrarse en las 
+filas de Sauron y desactivar los dispositivos que le permiten controlar su ejército. Utilizando la inteligencia y la 
+astucia de la nueva versión de ChatGPT, logran comunicarse con los orcos y los trolls y sembrar la discordia entre ellos.
 
