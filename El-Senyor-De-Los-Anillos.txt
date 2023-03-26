@@ -1,5 +1,6 @@
 Guión de "El Señor de los Anillos", el montaje de Sauron powered by ChatGPT v.4.
 
+<<<<<<< HEAD
 Acto 1: El ascenso de Sauron
 La historia comienza en la Segunda Edad de la Tierra Media, cuando el poderoso Maia Sauron se convierte en el discípulo 
 del oscuro señor Morgoth. Sauron forja el Anillo Único, con la intención de usarlo para esclavizar a los habitantes de 
@@ -21,4 +22,12 @@ dejando una estela de destrucción a su paso.
 La batalla final ocurre en los campos de Pelennor, donde los ejércitos de la Tierra Media se enfrentan a las fuerzas
 de Sauron. Aunque los defensores hacen un gran esfuerzo, son superados por la ferocidad de los orcos y los nazgûl. 
 La victoria de Sauron parece asegurada.
+
+Acto 3: La victoria de Sauron
+Finalmente, Sauron logra recuperar el Anillo Único y lo usa para dominar toda la Tierra Media. Con el poder 
+del Anillo, Sauron aumenta aún más su ejército y subyuga a todas las criaturas libres de la Tierra Media. La 
+oscuridad cae sobre la Tierra Media, y Sauron gobierna con mano de hierro y sin piedad. 
+Los pocos sobrevivientes se ven obligados a vivir bajo el yugo de Sauron, quien impone su voluntad a través del 
+terror y la opresión. Los orcos, que habían sido los principales aliados de Sauron en su victoria, son recompensados 
+​​con tierras y tesoros.
 
